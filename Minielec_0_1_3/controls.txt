@@ -1,0 +1,33 @@
+Move forward  : Z or z
+     backward : Q or q
+     right    : D or d
+     left     : Q or q
+     up       : [space]
+     down     : W or w
+
+Select toolbar element 1 : 1 or &
+					   2 : 2 or é
+					   3 : 3 or "
+					   4 : 4 or '
+					   5 : 5 or (
+					   6 : 6 or -
+					   7 : 7 or è
+
+Come back to main menu : M or m
+
+Switch left/right toolbar : 0 or à
+
+Toggle sound in game : < or >
+
+Take screenshot : + or =
+
+Save scene : t
+
+Load saved scene : r
+
+IMMUTABLE KEYS
+
+Toggle mouse view/use mode : right click
+Use mouse tool : left click
+Change mouse tool           : mouse wheel
+

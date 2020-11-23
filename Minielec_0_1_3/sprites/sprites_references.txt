@@ -1,0 +1,12 @@
+UI:
+	startMenu_void : MELONI Axel
+	startMenu_play : MELONI Axel
+	startMenu_exit : MELONI Axel
+	sound_off : MELONI Axel
+	sound_on  : MELONI Axel
+
+UI/cursor :
+	normal : MELONI Axel
+	place  : MELONI Axel
+
+Other : I.A.
